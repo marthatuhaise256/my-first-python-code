@@ -1,2 +1,2 @@
 # my-first-python-code
-my python snippets
+A collection of python snippets
